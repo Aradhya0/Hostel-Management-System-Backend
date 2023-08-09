@@ -23,7 +23,7 @@ To get a local copy up and running, follow these simple steps.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mayankjain25/Hostel-Management-System-Backend.git
+git clone https://github.com/Aradhya0/Hostel-Management-System-Backend.git
 cd Hostel-Management-System-Backend
 ```
 
