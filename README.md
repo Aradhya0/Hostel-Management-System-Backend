@@ -47,7 +47,3 @@ npm start
 The backend server should now be running at `http://localhost:3000` or the port specified in the `.env` file.
 
 Use Postman or any other API client to interact with the server and access the different endpoints.
-
-## Developer
-This project has been developed by [Mayank Jain](https://mayankjain25.netlify.app)
-For any queries, you contact me at jainmayank2509@gmail.com
